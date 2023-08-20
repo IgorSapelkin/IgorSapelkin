@@ -35,6 +35,14 @@ I am Junior specialist
 ![Slack](https://img.shields.io/badge/-Slack-white?style=flat&logo=Slack&logoColor=34BFE9)
 </div>
 </br>
+
+# Проекты:
+| Название проекта | Область | Описание |
+| ---------------- | -------- | ----------------------- |
+| [Классификация токсичных комментариев](https://github.com/IgorSapelkin/Yandex-projects/tree/main/Toxic_comments) | Анализ текстов (NLP) | ML-модель машинного обучения позволяет классифицировать комментарии на позитивные и негативные, чтобы в дальнейшем их отправлять на модерацию. Среди прочих, для данной задачи была протестирована языковая нейронная модель на архитектуре трансформер – BERT. |
+| [Предсказание коэффициента восстановления золота из золотосодержащей руды](https://github.com/IgorSapelkin/Yandex-projects/tree/main/Gold_research) | Регрессия | В целях оптимизации производства подготовлен прототип ML-модели для предсказания коэффициента восстановления золота из золотосодержащей руды. |
+| [Исследование успешности компьютерных игр](https://github.com/IgorSapelkin/Yandex-projects/tree/main/Games_research) | Анализ данных | Выявлены закономерности, Это позволит определять потенциально популярный продукт для планирования рекламных кампаний. |
+</br>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/igorsapelkinds" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="igorsapelkinds" height="30" width="40" /></a>
