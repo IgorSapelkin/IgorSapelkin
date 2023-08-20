@@ -5,9 +5,7 @@
 I am Junior specialist
 
 
-- 📫 How to reach me **igorsapelkin2016@gmail.com, t.me/+79158851311**
-
-- 📄 Know about my experiences [hh.ru/applicant/resumes/view?resume=51cb1127ff0c2e2afe0039ed1f4a544f4f4832](hh.ru/applicant/resumes/view?resume=51cb1127ff0c2e2afe0039ed1f4a544f4f4832)
+- 📄 My experiences [hh.ru/applicant/resumes/view?resume=51cb1127ff0c2e2afe0039ed1f4a544f4f4832](hh.ru/applicant/resumes/view?resume=51cb1127ff0c2e2afe0039ed1f4a544f4f4832)
 
 :computer: **Стек:**    
 ![Python](https://img.shields.io/badge/-Python-white?style=flat&logo=python)
